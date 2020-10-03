@@ -27,6 +27,7 @@
         "xutility": "cpp",
         "*.rh": "cpp",
         "string": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "iosfwd": "cpp"
     }
 }
