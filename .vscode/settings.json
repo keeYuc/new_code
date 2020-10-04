@@ -28,6 +28,18 @@
         "*.rh": "cpp",
         "string": "cpp",
         "ios": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "cctype": "cpp",
+        "compare": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "cwchar": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp",
+        "stdexcept": "cpp",
+        "xtr1common": "cpp"
     }
 }
