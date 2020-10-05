@@ -1,0 +1,1 @@
+extern const int a123 = 10;
