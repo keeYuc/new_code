@@ -41,6 +41,7 @@
         "limits": "cpp",
         "stdexcept": "cpp",
         "xtr1common": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "vector": "cpp"
     }
 }
