@@ -42,6 +42,7 @@
         "stdexcept": "cpp",
         "xtr1common": "cpp",
         "fstream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "deque": "cpp"
     }
 }
