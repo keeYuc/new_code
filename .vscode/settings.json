@@ -43,6 +43,7 @@
         "xtr1common": "cpp",
         "fstream": "cpp",
         "vector": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "stack": "cpp"
     }
 }

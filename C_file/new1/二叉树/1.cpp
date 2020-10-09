@@ -17,7 +17,7 @@ tree E;
 tree F;
 tree G;
 tree H;
-void earchTree(tree* treeBoot)
+void earchTree(tree* treeBoot)//互相
 {//*返回每个元素
     if (treeBoot == NULL)
     {

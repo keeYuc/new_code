@@ -3,6 +3,10 @@ using namespace std;
 extern const int a123;
 
 int main(){
-    cout << a123 << endl;
+    double b = 1;
+    for(int i=0;i<19;i++){
+        b *= 1.1;
+    }
+    cout << b << endl;
     system("pause");
 }
