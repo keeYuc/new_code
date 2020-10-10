@@ -44,6 +44,7 @@
         "fstream": "cpp",
         "vector": "cpp",
         "deque": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "functional": "cpp"
     }
 }
